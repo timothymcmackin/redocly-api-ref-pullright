@@ -35,3 +35,14 @@ implementation logic. Similar to what
 
 interfaces have done for lower-level programming, OpenAPI removes the
 guesswork in calling the service.
+
+# Pullright test
+
+Hello!
+
+<PullRight>
+This should be in the right pane.
+</PullRight>
+
+Here is some more text.
+
